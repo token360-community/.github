@@ -1,25 +1,23 @@
-# Token360
+# Token360 Community
 
-### Build with AI audio and video.
+**Open-source workflows, tools and curated resources for building with AI video, audio and image models.**
 
-Welcome to the official **Token360 developer community** — a home for practical tools, examples, and curated resources for developers working with AI audio and video.
+Token360 runs frontier text, image, audio and video models through one API. This is where we share what developers and creators can build on top of it: curated lists, examples and integrations, all open.
 
-[Explore Token360](https://www.token360.ai) · [Browse our repositories](https://github.com/orgs/token360-community/repositories)
+[Get an API key](https://www.token360.ai/en-US/sign-up?utm_source=github&utm_medium=org_profile&utm_campaign=community) · [Browse models and pricing](https://www.token360.ai/en-US/explore?utm_source=github&utm_medium=org_profile&utm_campaign=community) · [Docs](https://www.token360.ai/en-US/docs?utm_source=github&utm_medium=org_profile&utm_campaign=community) · [Follow on X](https://x.com/Token360AI)
 
-## What this community is for
+## Start here
 
-- **Practical examples:** workflows and integration examples that help developers get started.
-- **Developer tools:** reusable utilities for working with AI audio and video.
-- **Curated resources:** useful projects and learning material, with context to help you choose.
+| Repository | What's inside |
+| --- | --- |
+| [**awesome-video-audio-hacks**](https://github.com/token360-community/awesome-video-audio-hacks) | 81 hand-picked open-source workflows, agent skills, MCP servers and reproducible playbooks for AI video, voice, dubbing, lip-sync and ad videos, in 11 categories. In English, [简体中文](https://github.com/token360-community/awesome-video-audio-hacks/blob/main/README.zh-CN.md) and [日本語](https://github.com/token360-community/awesome-video-audio-hacks/blob/main/README.ja.md). Every entry meets a written inclusion bar and is re-checked every 30 days. |
 
-We're getting started. Explore the repositories as they become available, and follow this organization for updates.
+## Coming next
 
-## Featured
-
-**[Awesome Video & Audio Hacks](https://github.com/token360-community/awesome-video-audio-hacks)**: a strictly curated list of open-source workflows, agent skills, MCP servers and reproducible posts for AI video, voice, dubbing, lip-sync and editing. In English, [简体中文](https://github.com/token360-community/awesome-video-audio-hacks/blob/main/README.zh-CN.md) and [日本語](https://github.com/token360-community/awesome-video-audio-hacks/blob/main/README.ja.md). Every entry meets a written inclusion bar and is re-checked at least every 30 days.
+Token360-ready versions of the best open-source video and audio projects, each with clear credit to the original authors and a quick start that runs on Token360's API.
 
 ## Contribute
 
-Have a useful tool, example, or resource to share? Open an issue or pull request in the relevant repository. For AI video and audio resources, use the [suggestion form](https://github.com/token360-community/awesome-video-audio-hacks/issues/new?template=suggest-entry.yml) in awesome-video-audio-hacks. Please include what it does, how to use it, and links to the original project where applicable.
+Found a tool, workflow or playbook worth sharing? Use the [suggestion form](https://github.com/token360-community/awesome-video-audio-hacks/issues/new?template=suggest-entry.yml), or open an issue or pull request in the relevant repository.
 
-For setup instructions, support, and licensing, refer to each repository's README and license. Third-party projects remain the work of their original authors.
+Third-party projects remain the work of their original authors. See each repository's README and license for setup, support and licensing.
